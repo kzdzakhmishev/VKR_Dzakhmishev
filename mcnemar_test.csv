@@ -1,0 +1,7 @@
+pair,b,c,chi2,p_value,verdict
+TF-IDF+SVC vs BERT-CLS+SVC,325,331,0.038,8.45e-01,эквивалентны
+TF-IDF+SVC vs Hybrid+SVC,145,332,72.528,0.00e+00,значимо различаются
+BERT-CLS+SVC vs Hybrid+SVC,85,266,92.308,0.00e+00,значимо различаются
+TF-IDF+SVC vs BERT-finetuned,93,392,183.101,0.00e+00,значимо различаются
+BERT-CLS+SVC vs BERT-finetuned,40,333,228.59,0.00e+00,значимо различаются
+Hybrid+SVC vs BERT-finetuned,62,174,52.208,4.99e-13,значимо различаются

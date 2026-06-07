@@ -1,0 +1,2 @@
+approach,classifier,test_accuracy,test_precision,test_recall,test_f1_macro,test_roc_auc,train_time_sec,inference_ms_per_sample,val_accuracy,val_precision,val_recall,val_f1_macro,val_roc_auc
+BERT-finetuned,rubert-tiny2 (fine-tuned),0.9945111111111111,0.987188373623671,0.9755277409869011,0.9812725176808537,0.9977393388030212,489.5,0.3590781988888921,0.9953777777777778,0.9901169524714611,0.9785064822737727,0.9842274776266771,0.9988952469218126
